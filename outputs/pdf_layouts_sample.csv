@@ -1,6 +1,4 @@
 filename,layout,report_date,sample_header_line,notes
-UN_country_contributions_2015_01.pdf,C_country_unmission,2015-01,Country UN Mission Description M F Totals,Text contains 'country | un mission | description' pattern
-UN_country_contributions_2015_02.pdf,C_country_unmission,2015-02,Country UN Mission Description M F Totals,Text contains 'country | un mission | description' pattern
-UN_country_contributions_2015_03.pdf,C_country_unmission,2015-03,Country UN Mission Description M F Totals,Text contains 'country | un mission | description' pattern
-UN_country_contributions_2015_04.pdf,C_country_unmission,2015-04,Country UN Mission Description M F Totals,Text contains 'country | un mission | description' pattern
-UN_country_contributions_2015_05.pdf,C_country_unmission,2015-05,Country UN Mission Description M F Totals,Text contains 'country | un mission | description' pattern
+UN_country_contributions_2015_01.pdf,A_mission_country,2015-01,Country UN Mission Description M F Totals,"Header pattern: Country appears first, then Mission"
+UN_country_contributions_2015_02.pdf,A_mission_country,2015-02,Country UN Mission Description M F Totals,"Header pattern: Country appears first, then Mission"
+UN_country_contributions_2015_03.pdf,A_mission_country,2015-03,Country UN Mission Description M F Totals,"Header pattern: Country appears first, then Mission"
