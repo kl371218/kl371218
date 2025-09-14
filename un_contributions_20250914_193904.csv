@@ -1,0 +1,611 @@
+Year,Month,Mission,Country,Personnel_Type,Male,Female,Total
+2015,1,MINURSO,Argentina,Individual Police,0,1,1
+2015,1,MINURSO,Austria,Experts on Mission,3,0,3
+2015,1,MINURSO,Bangladesh,Experts on Mission,8,0,8
+2015,1,MINURSO,Brazil,Experts on Mission,10,0,10
+2015,1,MINURSO,China,Experts on Mission,10,0,10
+2015,1,MINURSO,Croatia,Experts on Mission,6,1,7
+2015,1,MINURSO,Djibouti,Experts on Mission,1,0,1
+2015,1,MINURSO,Egypt,Individual Police,1,1,2
+2015,1,MINURSO,Egypt,Experts on Mission,3,0,3
+2015,1,MINURSO,France,Experts on Mission,7,0,7
+2015,1,MINURSO,Germany,Experts on Mission,4,0,4
+2015,1,MINURSO,Ghana,Experts on Mission,9,0,9
+2015,1,MINURSO,Guinea,Experts on Mission,5,0,5
+2015,1,MINURSO,Honduras,Experts on Mission,11,0,11
+2015,1,MINURSO,Hungary,Experts on Mission,7,0,7
+2015,1,MINURSO,India,Experts on Mission,3,0,3
+2015,1,MINURSO,Indonesia,Experts on Mission,5,0,5
+2015,1,MINURSO,Ireland,Experts on Mission,3,0,3
+2015,1,MINURSO,Italy,Experts on Mission,4,0,4
+2015,1,MINURSO,Jordan,Individual Police,1,0,1
+2015,1,MINURSO,Kazakhstan,Experts on Mission,3,0,3
+2015,1,MINURSO,Malawi,Experts on Mission,3,0,3
+2015,1,MINURSO,Malaysia,Experts on Mission,10,0,10
+2015,1,MINURSO,Mongolia,Experts on Mission,2,2,4
+2015,1,MINURSO,Nepal,Experts on Mission,5,0,5
+2015,1,MINURSO,Nigeria,Experts on Mission,4,0,4
+2015,1,MINURSO,Pakistan,Experts on Mission,11,0,11
+2015,1,MINURSO,Paraguay,Experts on Mission,6,0,6
+2015,1,MINURSO,Poland,Experts on Mission,2,0,2
+2015,1,MINURSO,Qatar,Experts on Mission,4,0,4
+2015,1,MINURSO,Romania,Experts on Mission,9,0,9
+2015,1,MINURSO,Spain,Experts on Mission,3,0,3
+2015,1,MINURSO,Switzerland,Experts on Mission,2,0,2
+2015,1,MINURSO,Togo,Experts on Mission,1,0,1
+2015,1,MINURSO,Yemen,Individual Police,2,0,2
+2015,1,MINUSCA,Bangladesh,Experts on Mission,11,0,11
+2015,1,MINUSCA,Benin,Individual Police,29,0,29
+2015,1,MINUSCA,Bhutan,Contingent Troops,2,0,2
+2015,1,MINUSCA,Bolivia,Experts on Mission,3,0,3
+2015,1,MINUSCA,Brazil,Experts on Mission,3,0,3
+2015,1,MINUSCA,Bulgaria,Individual Police,14,7,21
+2015,1,MINUSCA,Burundi,Individual Police,3,0,3
+2015,1,MINUSCA,Cambodia,Experts on Mission,5,0,5
+2015,1,MINUSCA,Cameroon,Individual Police,6,0,6
+2015,1,MINUSCA,Congo,Individual Police,4,0,4
+2015,1,MINUSCA,Congo,Other,140,0,140
+2015,1,MINUSCA,Congo,Individual Police,29,0,29
+2015,1,MINUSCA,Cyprus,Experts on Mission,3,0,3
+2015,1,MINUSCA,Djibouti,Individual Police,3,0,3
+2015,1,MINUSCA,Djibouti,Other,110,17,127
+2015,1,MINUSCA,Egypt,Experts on Mission,3,0,3
+2015,1,MINUSCA,France,Contingent Troops,8,1,9
+2015,1,MINUSCA,Gabon,Experts on Mission,3,0,3
+2015,1,MINUSCA,Ghana,Experts on Mission,4,0,4
+2015,1,MINUSCA,Guatemala,Experts on Mission,2,0,2
+2015,1,MINUSCA,Indonesia,Experts on Mission,2,0,2
+2015,1,MINUSCA,Jordan,Individual Police,2,0,2
+2015,1,MINUSCA,Kenya,Experts on Mission,4,1,5
+2015,1,MINUSCA,Madagascar,Individual Police,1,0,1
+2015,1,MINUSCA,Mali,Contingent Troops,1,0,1
+2015,1,MINUSCA,Mauritania,Experts on Mission,2,0,2
+2015,1,MINUSCA,Mauritania,Experts on Mission,1,1,2
+2015,1,MINUSCA,Morocco,Experts on Mission,2,0,2
+2015,1,MINUSCA,Nepal,Experts on Mission,3,0,3
+2015,1,MINUSCA,Niger,Individual Police,6,1,7
+2015,1,MINUSCA,Pakistan,Experts on Mission,6,0,6
+2015,1,MINUSCA,Paraguay,Experts on Mission,1,0,1
+2015,1,MINUSCA,Peru,Experts on Mission,1,0,1
+2015,1,MINUSCA,Rwanda,Individual Police,12,13,25
+2015,1,MINUSCA,Senegal,Individual Police,8,0,8
+2015,1,MINUSCA,Serbia,Experts on Mission,2,0,2
+2015,1,MINUSCA,Spain,Experts on Mission,3,0,3
+2015,1,MINUSCA,Thailand,Contingent Troops,1,0,1
+2015,1,MINUSCA,Tunisia,Individual Police,15,2,17
+2015,1,MINUSCA,Ukraine,Contingent Troops,3,0,3
+2015,1,MINUSCA,Yemen,Individual Police,2,0,2
+2015,1,MINUSCA,Zambia,Experts on Mission,6,1,7
+2015,1,MINUSMA,Bangladesh,Other,138,0,138
+2015,1,MINUSMA,Benin,Individual Police,21,1,22
+2015,1,MINUSMA,Bolivia,Contingent Troops,2,0,2
+2015,1,MINUSMA,Bulgaria,Individual Police,20,2,22
+2015,1,MINUSMA,Burundi,Individual Police,13,0,13
+2015,1,MINUSMA,Cambodia,Contingent Troops,292,4,296
+2015,1,MINUSMA,Cameroon,Individual Police,17,1,18
+2015,1,MINUSMA,Canada,Contingent Troops,1,0,1
+2015,1,MINUSMA,Chad,Individual Police,5,0,5
+2015,1,MINUSMA,China,Contingent Troops,389,13,402
+2015,1,MINUSMA,Congo,Individual Police,14,1,15
+2015,1,MINUSMA,Denmark,Contingent Troops,10,0,10
+2015,1,MINUSMA,Djibouti,Individual Police,1,0,1
+2015,1,MINUSMA,Djibouti,Individual Police,5,1,6
+2015,1,MINUSMA,Egypt,Individual Police,2,0,2
+2015,1,MINUSMA,Egypt,Contingent Troops,1,0,1
+2015,1,MINUSMA,Estonia,Contingent Troops,2,0,2
+2015,1,MINUSMA,Finland,Contingent Troops,5,0,5
+2015,1,MINUSMA,France,Individual Police,5,0,5
+2015,1,MINUSMA,Germany,Individual Police,6,0,6
+2015,1,MINUSMA,Ghana,Individual Police,1,0,1
+2015,1,MINUSMA,Guinea,Individual Police,4,1,5
+2015,1,MINUSMA,Guinea,Contingent Troops,1,0,1
+2015,1,MINUSMA,Italy,Contingent Troops,2,0,2
+2015,1,MINUSMA,Jordan,Individual Police,3,0,3
+2015,1,MINUSMA,Kenya,Contingent Troops,1,0,1
+2015,1,MINUSMA,Liberia,Contingent Troops,43,4,47
+2015,1,MINUSMA,Madagascar,Individual Police,2,0,2
+2015,1,MINUSMA,Mauritania,Contingent Troops,6,0,6
+2015,1,MINUSMA,Nepal,Contingent Troops,141,4,145
+2015,1,MINUSMA,Netherlands,Individual Police,14,1,15
+2015,1,MINUSMA,Niger,Individual Police,10,1,11
+2015,1,MINUSMA,Nigeria,Individual Police,2,0,2
+2015,1,MINUSMA,Norway,Contingent Troops,20,2,22
+2015,1,MINUSMA,Portugal,Contingent Troops,45,4,49
+2015,1,MINUSMA,Romania,Individual Police,2,0,2
+2015,1,MINUSMA,Rwanda,Individual Police,3,1,4
+2015,1,MINUSMA,Senegal,Individual Police,9,2,11
+2015,1,MINUSMA,Senegal,Other,277,2,279
+2015,1,MINUSMA,Serbia,Contingent Troops,4,0,4
+2015,1,MINUSMA,Sweden,Individual Police,2,1,3
+2015,1,MINUSMA,Switzerland,Individual Police,0,1,1
+2015,1,MINUSMA,Togo,Individual Police,4,0,4
+2015,1,MINUSMA,Tunisia,Individual Police,8,0,8
+2015,1,MINUSMA,Turkey,Individual Police,5,0,5
+2015,1,MINUSMA,Ukraine,Contingent Troops,2,0,2
+2015,1,MINUSMA,Ukraine,Contingent Troops,9,1,10
+2015,1,MINUSMA,Yemen,Individual Police,8,0,8
+2015,1,MINUSTAH,Argentina,Individual Police,19,2,21
+2015,1,MINUSTAH,Bangladesh,Individual Police,5,0,5
+2015,1,MINUSTAH,Benin,Individual Police,29,1,30
+2015,1,MINUSTAH,Bolivia,Contingent Troops,185,20,205
+2015,1,MINUSTAH,Brazil,Individual Police,16,0,16
+2015,1,MINUSTAH,Bulgaria,Individual Police,42,3,45
+2015,1,MINUSTAH,Burundi,Individual Police,19,1,20
+2015,1,MINUSTAH,Cameroon,Individual Police,7,1,8
+2015,1,MINUSTAH,Canada,Individual Police,63,17,80
+2015,1,MINUSTAH,Chad,Individual Police,7,0,7
+2015,1,MINUSTAH,Chile,Individual Police,7,4,11
+2015,1,MINUSTAH,Colombia,Individual Police,21,1,22
+2015,1,MINUSTAH,Congo,Individual Police,66,7,73
+2015,1,MINUSTAH,Croatia,Individual Police,1,0,1
+2015,1,MINUSTAH,Ecuador,Contingent Troops,104,0,104
+2015,1,MINUSTAH,Egypt,Contingent Troops,34,0,34
+2015,1,MINUSTAH,France,Individual Police,16,2,18
+2015,1,MINUSTAH,Grenada,Individual Police,2,0,2
+2015,1,MINUSTAH,Guatemala,Contingent Troops,129,9,138
+2015,1,MINUSTAH,Guinea,Individual Police,14,0,14
+2015,1,MINUSTAH,Honduras,Contingent Troops,38,0,38
+2015,1,MINUSTAH,India,Individual Police,4,0,4
+2015,1,MINUSTAH,Indonesia,Contingent Troops,2,0,2
+2015,1,MINUSTAH,Jamaica,Individual Police,2,0,2
+2015,1,MINUSTAH,Jordan,Individual Police,12,0,12
+2015,1,MINUSTAH,Kyrgyzstan,Individual Police,1,0,1
+2015,1,MINUSTAH,Madagascar,Individual Police,1,1,2
+2015,1,MINUSTAH,Mali,Individual Police,36,3,39
+2015,1,MINUSTAH,Nepal,Individual Police,10,1,11
+2015,1,MINUSTAH,Niger,Individual Police,15,0,15
+2015,1,MINUSTAH,Nigeria,Individual Police,2,2,4
+2015,1,MINUSTAH,Norway,Individual Police,2,0,2
+2015,1,MINUSTAH,Pakistan,Other,138,1,139
+2015,1,MINUSTAH,Paraguay,Contingent Troops,111,5,116
+2015,1,MINUSTAH,Peru,Contingent Troops,347,25,372
+2015,1,MINUSTAH,Philippines,Individual Police,14,1,15
+2015,1,MINUSTAH,Romania,Individual Police,17,3,20
+2015,1,MINUSTAH,Romania,Individual Police,5,0,5
+2015,1,MINUSTAH,Rwanda,Individual Police,5,0,5
+2015,1,MINUSTAH,Senegal,Individual Police,10,0,10
+2015,1,MINUSTAH,Serbia,Individual Police,4,0,4
+2015,1,MINUSTAH,Spain,Individual Police,1,0,1
+2015,1,MINUSTAH,Spain,Individual Police,5,2,7
+2015,1,MINUSTAH,Thailand,Individual Police,1,1,2
+2015,1,MINUSTAH,Tunisia,Individual Police,10,1,11
+2015,1,MINUSTAH,Turkey,Individual Police,18,0,18
+2015,1,MINUSTAH,Ukraine,Individual Police,66,7,73
+2015,1,MINUSTAH,Uruguay,Individual Police,4,0,4
+2015,1,MINUSTAH,Vanuatu,Individual Police,2,0,2
+2015,1,MINUSTAH,Yemen,Individual Police,24,0,24
+2015,1,MONUSCO,Algeria,Experts on Mission,5,0,5
+2015,1,MONUSCO,Bangladesh,Other,44,79,123
+2015,1,MONUSCO,Belgium,Contingent Troops,2,0,2
+2015,1,MONUSCO,Benin,Individual Police,35,4,39
+2015,1,MONUSCO,Bolivia,Experts on Mission,5,0,5
+2015,1,MONUSCO,Bolivia,Experts on Mission,5,0,5
+2015,1,MONUSCO,Brazil,Experts on Mission,1,0,1
+2015,1,MONUSCO,Bulgaria,Individual Police,27,9,36
+2015,1,MONUSCO,Cameroon,Individual Police,18,12,30
+2015,1,MONUSCO,Canada,Contingent Troops,8,0,8
+2015,1,MONUSCO,Chad,Individual Police,4,2,6
+2015,1,MONUSCO,China,Experts on Mission,13,0,13
+2015,1,MONUSCO,Congo,Individual Police,11,6,17
+2015,1,MONUSCO,Cyprus,Experts on Mission,3,0,3
+2015,1,MONUSCO,Egypt,Individual Police,2,0,2
+2015,1,MONUSCO,France,Individual Police,5,0,5
+2015,1,MONUSCO,Ghana,Individual Police,2,0,2
+2015,1,MONUSCO,Guatemala,Experts on Mission,1,0,1
+2015,1,MONUSCO,Guinea,Individual Police,14,2,16
+2015,1,MONUSCO,India,Other,266,4,270
+2015,1,MONUSCO,Indonesia,Experts on Mission,14,0,14
+2015,1,MONUSCO,Ireland,Contingent Troops,3,1,4
+2015,1,MONUSCO,Jordan,Individual Police,5,0,5
+2015,1,MONUSCO,Kenya,Experts on Mission,14,1,15
+2015,1,MONUSCO,Madagascar,Individual Police,2,4,6
+2015,1,MONUSCO,Malawi,Experts on Mission,8,1,9
+2015,1,MONUSCO,Malaysia,Experts on Mission,8,1,9
+2015,1,MONUSCO,Mali,Individual Police,29,5,34
+2015,1,MONUSCO,Mongolia,Experts on Mission,2,0,2
+2015,1,MONUSCO,Morocco,Experts on Mission,2,0,2
+2015,1,MONUSCO,Nepal,Experts on Mission,19,0,19
+2015,1,MONUSCO,Niger,Individual Police,26,6,32
+2015,1,MONUSCO,Nigeria,Individual Police,6,0,6
+2015,1,MONUSCO,Nigeria,Experts on Mission,14,0,14
+2015,1,MONUSCO,Pakistan,Experts on Mission,43,0,43
+2015,1,MONUSCO,Paraguay,Experts on Mission,11,0,11
+2015,1,MONUSCO,Peru,Experts on Mission,9,2,11
+2015,1,MONUSCO,Poland,Experts on Mission,3,0,3
+2015,1,MONUSCO,Romania,Individual Police,1,1,2
+2015,1,MONUSCO,Romania,Individual Police,2,0,2
+2015,1,MONUSCO,Senegal,Individual Police,19,2,21
+2015,1,MONUSCO,Serbia,Contingent Troops,5,3,8
+2015,1,MONUSCO,Slovenia,Experts on Mission,3,0,3
+2015,1,MONUSCO,Spain,Experts on Mission,4,0,4
+2015,1,MONUSCO,Sweden,Individual Police,2,3,5
+2015,1,MONUSCO,Switzerland,Individual Police,1,0,1
+2015,1,MONUSCO,Switzerland,Contingent Troops,203,45,1248
+2015,1,MONUSCO,Togo,Individual Police,23,3,26
+2015,1,MONUSCO,Tunisia,Individual Police,13,0,13
+2015,1,MONUSCO,Turkey,Individual Police,2,0,2
+2015,1,MONUSCO,Ukraine,Individual Police,2,1,3
+2015,1,MONUSCO,Ukraine,Contingent Troops,5,0,5
+2015,1,MONUSCO,Ukraine,Contingent Troops,1,2,3
+2015,1,MONUSCO,Uruguay,Experts on Mission,15,0,15
+2015,1,MONUSCO,Yemen,Individual Police,9,0,9
+2015,1,MONUSCO,Zambia,Experts on Mission,12,4,16
+2015,1,UNAMA,Australia,Experts on Mission,2,0,2
+2015,1,UNAMA,Bolivia,Individual Police,0,1,1
+2015,1,UNAMA,Cyprus,Experts on Mission,2,0,2
+2015,1,UNAMA,Finland,Individual Police,1,0,1
+2015,1,UNAMA,Germany,Experts on Mission,3,0,3
+2015,1,UNAMA,India,Individual Police,0,1,1
+2015,1,UNAMA,Lithuania,Experts on Mission,1,0,1
+2015,1,UNAMA,Mongolia,Experts on Mission,1,0,1
+2015,1,UNAMA,Netherlands,Individual Police,1,0,1
+2015,1,UNAMA,Poland,Experts on Mission,1,0,1
+2015,1,UNAMA,Portugal,Experts on Mission,1,0,1
+2015,1,UNAMA,Romania,Experts on Mission,2,0,2
+2015,1,UNAMA,Sweden,Experts on Mission,1,0,1
+2015,1,UNAMA,Turkey,Experts on Mission,1,0,1
+2015,1,UNAMI,Fiji,Contingent Troops,158,6,164
+2015,1,UNAMI,India,Experts on Mission,1,0,1
+2015,1,UNAMI,Nepal,Contingent Troops,72,5,77
+2015,1,UNAMID,Bangladesh,Individual Police,25,1,26
+2015,1,UNAMID,Bolivia,Experts on Mission,2,0,2
+2015,1,UNAMID,Bulgaria,Individual Police,16,6,22
+2015,1,UNAMID,Burundi,Individual Police,34,2,36
+2015,1,UNAMID,Cambodia,Experts on Mission,3,0,3
+2015,1,UNAMID,Cameroon,Individual Police,7,14,21
+2015,1,UNAMID,China,Contingent Troops,231,0,231
+2015,1,UNAMID,Djibouti,Individual Police,1,0,1
+2015,1,UNAMID,Ecuador,Experts on Mission,2,0,2
+2015,1,UNAMID,Egypt,Individual Police,107,0,107
+2015,1,UNAMID,Ethiopia,Individual Police,9,0,9
+2015,1,UNAMID,Fiji,Individual Police,19,0,19
+2015,1,UNAMID,Gambia,Individual Police,61,27,88
+2015,1,UNAMID,Germany,Individual Police,5,0,5
+2015,1,UNAMID,Ghana,Individual Police,23,87,110
+2015,1,UNAMID,Indonesia,Individual Police,9,6,15
+2015,1,UNAMID,Iran,Experts on Mission,2,0,2
+2015,1,UNAMID,Jamaica,Individual Police,5,7,12
+2015,1,UNAMID,Jordan,Individual Police,88,8,96
+2015,1,UNAMID,Kenya,Experts on Mission,4,1,5
+2015,1,UNAMID,Kyrgyzstan,Individual Police,6,0,6
+2015,1,UNAMID,Lesotho,Experts on Mission,2,0,2
+2015,1,UNAMID,Madagascar,Individual Police,4,1,5
+2015,1,UNAMID,Malawi,Individual Police,14,6,20
+2015,1,UNAMID,Malaysia,Experts on Mission,2,0,2
+2015,1,UNAMID,Mali,Experts on Mission,3,0,3
+2015,1,UNAMID,Mongolia,Contingent Troops,39,31,70
+2015,1,UNAMID,Namibia,Individual Police,22,27,49
+2015,1,UNAMID,Nepal,Individual Police,12,2,14
+2015,1,UNAMID,Nigeria,Individual Police,57,6,63
+2015,1,UNAMID,Pakistan,Other,138,0,138
+2015,1,UNAMID,Peru,Experts on Mission,1,0,1
+2015,1,UNAMID,Qatar,Contingent Troops,2,0,2
+2015,1,UNAMID,Rwanda,Individual Police,23,50,73
+2015,1,UNAMID,Samoa,Individual Police,2,0,2
+2015,1,UNAMID,Senegal,Individual Police,16,0,16
+2015,1,UNAMID,Serbia,Individual Police,25,41,66
+2015,1,UNAMID,Slovenia,Experts on Mission,11,2,13
+2015,1,UNAMID,Switzerland,Individual Police,54,17,71
+2015,1,UNAMID,Thailand,Experts on Mission,6,3,9
+2015,1,UNAMID,Togo,Other,135,5,140
+2015,1,UNAMID,Tunisia,Individual Police,25,1,26
+2015,1,UNAMID,Turkey,Individual Police,15,1,16
+2015,1,UNAMID,Yemen,Individual Police,138,0,138
+2015,1,UNAMID,Zambia,Individual Police,37,2,39
+2015,1,UNAMID,Zimbabwe,Individual Police,4,1,5
+2015,1,UNDOF,Fiji,Contingent Troops,424,23,447
+2015,1,UNDOF,India,Contingent Troops,188,1,189
+2015,1,UNDOF,Ireland,Contingent Troops,130,7,137
+2015,1,UNDOF,Nepal,Contingent Troops,154,1,155
+2015,1,UNDOF,Netherlands,Contingent Troops,2,0,2
+2015,1,UNFICYP,Argentina,Contingent Troops,251,16,267
+2015,1,UNFICYP,Australia,Individual Police,11,4,15
+2015,1,UNFICYP,Austria,Contingent Troops,4,0,4
+2015,1,UNFICYP,Bolivia,Individual Police,7,1,8
+2015,1,UNFICYP,Brazil,Contingent Troops,1,0,1
+2015,1,UNFICYP,Canada,Contingent Troops,1,0,1
+2015,1,UNFICYP,Chile,Contingent Troops,14,0,14
+2015,1,UNFICYP,China,Individual Police,2,0,2
+2015,1,UNFICYP,Hungary,Contingent Troops,65,12,77
+2015,1,UNFICYP,India,Individual Police,7,1,8
+2015,1,UNFICYP,Ireland,Individual Police,9,2,11
+2015,1,UNFICYP,Italy,Individual Police,3,1,4
+2015,1,UNFICYP,Lithuania,Individual Police,1,1,2
+2015,1,UNFICYP,Montenegro,Individual Police,4,0,4
+2015,1,UNFICYP,Norway,Contingent Troops,2,0,2
+2015,1,UNFICYP,Paraguay,Contingent Troops,12,0,12
+2015,1,UNFICYP,Romania,Individual Police,2,0,2
+2015,1,UNFICYP,Serbia,Individual Police,2,0,2
+2015,1,UNFICYP,Slovakia,Individual Police,1,1,2
+2015,1,UNFICYP,Ukraine,Individual Police,8,0,8
+2015,1,UNFICYP,Ukraine,Contingent Troops,259,15,274
+2015,1,UNIFIL,Armenia,Contingent Troops,33,0,33
+2015,1,UNIFIL,Austria,Contingent Troops,163,7,170
+2015,1,UNIFIL,Bangladesh,Contingent Troops,326,0,326
+2015,1,UNIFIL,Belarus,Contingent Troops,3,2,5
+2015,1,UNIFIL,Belgium,Contingent Troops,1,0,1
+2015,1,UNIFIL,Brazil,Contingent Troops,270,1,271
+2015,1,UNIFIL,Brunei,Contingent Troops,30,0,30
+2015,1,UNIFIL,Cambodia,Contingent Troops,173,11,184
+2015,1,UNIFIL,China,Contingent Troops,208,10,218
+2015,1,UNIFIL,Croatia,Contingent Troops,1,0,1
+2015,1,UNIFIL,Cyprus,Contingent Troops,2,0,2
+2015,1,UNIFIL,Egypt,Contingent Troops,52,0,52
+2015,1,UNIFIL,Finland,Contingent Troops,328,14,342
+2015,1,UNIFIL,France,Contingent Troops,800,39,839
+2015,1,UNIFIL,Germany,Contingent Troops,103,10,113
+2015,1,UNIFIL,Ghana,Contingent Troops,808,63,871
+2015,1,UNIFIL,Greece,Contingent Troops,51,0,51
+2015,1,UNIFIL,Guatemala,Contingent Troops,2,0,2
+2015,1,UNIFIL,Hungary,Contingent Troops,4,0,4
+2015,1,UNIFIL,India,Contingent Troops,890,10,900
+2015,1,UNIFIL,Indonesia,Contingent Troops,268,21,1289
+2015,1,UNIFIL,Ireland,Contingent Troops,187,12,199
+2015,1,UNIFIL,Italy,Contingent Troops,61,48,1109
+2015,1,UNIFIL,Kenya,Contingent Troops,1,0,1
+2015,1,UNIFIL,Malaysia,Contingent Troops,813,14,827
+2015,1,UNIFIL,Nepal,Contingent Troops,852,21,873
+2015,1,UNIFIL,Nigeria,Contingent Troops,0,1,1
+2015,1,UNIFIL,Qatar,Contingent Troops,3,0,3
+2015,1,UNIFIL,Qatar,Contingent Troops,315,5,320
+2015,1,UNIFIL,Serbia,Contingent Troops,170,7,177
+2015,1,UNIFIL,Serbia,Contingent Troops,3,0,3
+2015,1,UNIFIL,Slovenia,Contingent Troops,14,0,14
+2015,1,UNIFIL,Spain,Contingent Troops,559,30,589
+2015,1,UNIFIL,Spain,Contingent Troops,151,0,151
+2015,1,UNIFIL,Switzerland,Contingent Troops,117,40,157
+2015,1,UNIFIL,Thailand,Contingent Troops,1,0,1
+2015,1,UNIFIL,Turkey,Contingent Troops,107,0,107
+2015,1,UNISFA,Benin,Experts on Mission,2,0,2
+2015,1,UNISFA,Brazil,Experts on Mission,2,0,2
+2015,1,UNISFA,Bulgaria,Experts on Mission,1,0,1
+2015,1,UNISFA,Burundi,Experts on Mission,1,0,1
+2015,1,UNISFA,Cambodia,Experts on Mission,3,0,3
+2015,1,UNISFA,Ecuador,Experts on Mission,2,0,2
+2015,1,UNISFA,Ethiopia,Individual Police,7,0,7
+2015,1,UNISFA,Ghana,Individual Police,3,1,4
+2015,1,UNISFA,Guatemala,Experts on Mission,2,0,2
+2015,1,UNISFA,Guinea,Experts on Mission,1,0,1
+2015,1,UNISFA,India,Experts on Mission,2,0,2
+2015,1,UNISFA,Indonesia,Experts on Mission,2,0,2
+2015,1,UNISFA,Kyrgyzstan,Experts on Mission,1,0,1
+2015,1,UNISFA,Malawi,Contingent Troops,1,0,1
+2015,1,UNISFA,Malaysia,Experts on Mission,1,0,1
+2015,1,UNISFA,Mali,Contingent Troops,1,0,1
+2015,1,UNISFA,Mongolia,Experts on Mission,1,1,2
+2015,1,UNISFA,Namibia,Individual Police,4,0,4
+2015,1,UNISFA,Nepal,Experts on Mission,1,0,1
+2015,1,UNISFA,Nigeria,Contingent Troops,2,0,2
+2015,1,UNISFA,Peru,Contingent Troops,1,0,1
+2015,1,UNISFA,Romania,Experts on Mission,1,0,1
+2015,1,UNISFA,Rwanda,Individual Police,1,0,1
+2015,1,UNISFA,Switzerland,Individual Police,3,2,5
+2015,1,UNISFA,Ukraine,Experts on Mission,4,0,4
+2015,1,UNISFA,Yemen,Experts on Mission,3,0,3
+2015,1,UNISFA,Zambia,Experts on Mission,1,0,1
+2015,1,UNISFA,Zimbabwe,Individual Police,2,2,4
+2015,1,UNMIK,Austria,Individual Police,1,0,1
+2015,1,UNMIK,Cyprus,Experts on Mission,1,1,2
+2015,1,UNMIK,Germany,Individual Police,1,0,1
+2015,1,UNMIK,Hungary,Individual Police,1,0,1
+2015,1,UNMIK,Italy,Individual Police,1,0,1
+2015,1,UNMIK,Mauritania,Experts on Mission,1,0,1
+2015,1,UNMIK,Pakistan,Individual Police,1,0,1
+2015,1,UNMIK,Poland,Experts on Mission,1,0,1
+2015,1,UNMIK,Romania,Experts on Mission,1,0,1
+2015,1,UNMIK,Romania,Individual Police,0,1,1
+2015,1,UNMIK,Turkey,Individual Police,1,0,1
+2015,1,UNMIK,Ukraine,Individual Police,1,0,1
+2015,1,UNMIL,Argentina,Individual Police,9,3,12
+2015,1,UNMIL,Bangladesh,Individual Police,14,0,14
+2015,1,UNMIL,Benin,Experts on Mission,2,0,2
+2015,1,UNMIL,Bhutan,Individual Police,5,1,6
+2015,1,UNMIL,Bolivia,Experts on Mission,2,0,2
+2015,1,UNMIL,Bolivia,Individual Police,4,3,7
+2015,1,UNMIL,Brazil,Experts on Mission,2,0,2
+2015,1,UNMIL,Bulgaria,Experts on Mission,2,0,2
+2015,1,UNMIL,China,Individual Police,18,1,19
+2015,1,UNMIL,Denmark,Experts on Mission,3,0,3
+2015,1,UNMIL,Ecuador,Experts on Mission,2,0,2
+2015,1,UNMIL,Egypt,Individual Police,4,0,4
+2015,1,UNMIL,Ethiopia,Experts on Mission,9,0,9
+2015,1,UNMIL,Fiji,Individual Police,24,0,24
+2015,1,UNMIL,Finland,Contingent Troops,2,0,2
+2015,1,UNMIL,Gambia,Individual Police,19,0,19
+2015,1,UNMIL,Germany,Individual Police,2,1,3
+2015,1,UNMIL,Ghana,Individual Police,16,13,29
+2015,1,UNMIL,India,Individual Police,7,0,7
+2015,1,UNMIL,Indonesia,Experts on Mission,1,0,1
+2015,1,UNMIL,Jordan,Individual Police,10,0,10
+2015,1,UNMIL,Kenya,Individual Police,19,4,23
+2015,1,UNMIL,Kyrgyzstan,Individual Police,1,2,3
+2015,1,UNMIL,Lithuania,Individual Police,1,0,1
+2015,1,UNMIL,Malaysia,Experts on Mission,6,0,6
+2015,1,UNMIL,Mauritania,Experts on Mission,1,0,1
+2015,1,UNMIL,Namibia,Individual Police,6,3,9
+2015,1,UNMIL,Nepal,Individual Police,21,1,22
+2015,1,UNMIL,Niger,Experts on Mission,2,0,2
+2015,1,UNMIL,Nigeria,Individual Police,29,5,34
+2015,1,UNMIL,Norway,Individual Police,6,3,9
+2015,1,UNMIL,Pakistan,Experts on Mission,9,0,9
+2015,1,UNMIL,Paraguay,Experts on Mission,2,0,2
+2015,1,UNMIL,Poland,Experts on Mission,2,0,2
+2015,1,UNMIL,Qatar,Individual Police,2,1,3
+2015,1,UNMIL,Romania,Individual Police,3,0,3
+2015,1,UNMIL,Romania,Individual Police,6,0,6
+2015,1,UNMIL,Rwanda,Individual Police,4,0,4
+2015,1,UNMIL,Senegal,Contingent Troops,1,0,1
+2015,1,UNMIL,Serbia,Individual Police,6,0,6
+2015,1,UNMIL,Spain,Individual Police,14,3,17
+2015,1,UNMIL,Sweden,Individual Police,7,8,15
+2015,1,UNMIL,Switzerland,Individual Police,1,0,1
+2015,1,UNMIL,Thailand,Individual Police,1,0,1
+2015,1,UNMIL,Togo,Experts on Mission,2,0,2
+2015,1,UNMIL,Turkey,Individual Police,11,0,11
+2015,1,UNMIL,Uganda,Individual Police,11,1,12
+2015,1,UNMIL,Ukraine,Individual Police,15,4,19
+2015,1,UNMIL,Ukraine,Individual Police,1,0,1
+2015,1,UNMIL,Uruguay,Individual Police,2,0,2
+2015,1,UNMIL,Yemen,Individual Police,6,0,6
+2015,1,UNMIL,Zambia,Individual Police,8,6,14
+2015,1,UNMIL,Zimbabwe,Individual Police,18,10,28
+2015,1,UNMISS,Albania,Individual Police,3,0,3
+2015,1,UNMISS,Argentina,Individual Police,4,0,4
+2015,1,UNMISS,Australia,Experts on Mission,3,1,4
+2015,1,UNMISS,Bangladesh,Individual Police,27,2,29
+2015,1,UNMISS,Benin,Experts on Mission,3,0,3
+2015,1,UNMISS,Bolivia,Experts on Mission,1,1,2
+2015,1,UNMISS,Bolivia,Individual Police,25,4,29
+2015,1,UNMISS,Brazil,Individual Police,2,0,2
+2015,1,UNMISS,Cambodia,Experts on Mission,5,0,5
+2015,1,UNMISS,Canada,Experts on Mission,5,0,5
+2015,1,UNMISS,China,Individual Police,15,0,15
+2015,1,UNMISS,Denmark,Experts on Mission,2,0,2
+2015,1,UNMISS,Egypt,Experts on Mission,3,0,3
+2015,1,UNMISS,Egypt,Experts on Mission,1,0,1
+2015,1,UNMISS,Ethiopia,Individual Police,21,1,22
+2015,1,UNMISS,Fiji,Individual Police,14,1,15
+2015,1,UNMISS,Germany,Individual Police,1,1,2
+2015,1,UNMISS,Ghana,Individual Police,10,12,22
+2015,1,UNMISS,Guatemala,Experts on Mission,2,0,2
+2015,1,UNMISS,Guinea,Experts on Mission,2,0,2
+2015,1,UNMISS,India,Individual Police,42,6,48
+2015,1,UNMISS,Indonesia,Individual Police,16,0,16
+2015,1,UNMISS,Indonesia,Contingent Troops,1,0,1
+2015,1,UNMISS,Japan,Contingent Troops,269,3,272
+2015,1,UNMISS,Jordan,Experts on Mission,3,0,3
+2015,1,UNMISS,Kenya,Individual Police,21,11,32
+2015,1,UNMISS,Kyrgyzstan,Individual Police,5,0,5
+2015,1,UNMISS,Kyrgyzstan,Contingent Troops,2,0,2
+2015,1,UNMISS,Mauritania,Experts on Mission,2,0,2
+2015,1,UNMISS,Mongolia,Experts on Mission,2,0,2
+2015,1,UNMISS,Namibia,Individual Police,14,1,15
+2015,1,UNMISS,Nepal,Individual Police,16,1,17
+2015,1,UNMISS,Netherlands,Individual Police,15,2,17
+2015,1,UNMISS,Netherlands,Experts on Mission,2,0,2
+2015,1,UNMISS,Nigeria,Individual Police,19,1,20
+2015,1,UNMISS,Norway,Individual Police,9,2,11
+2015,1,UNMISS,Paraguay,Experts on Mission,3,0,3
+2015,1,UNMISS,Peru,Experts on Mission,2,0,2
+2015,1,UNMISS,Poland,Experts on Mission,2,0,2
+2015,1,UNMISS,Qatar,Experts on Mission,2,0,2
+2015,1,UNMISS,Romania,Individual Police,4,0,4
+2015,1,UNMISS,Romania,Individual Police,8,2,10
+2015,1,UNMISS,Rwanda,Individual Police,20,7,27
+2015,1,UNMISS,Samoa,Individual Police,10,2,12
+2015,1,UNMISS,Senegal,Individual Police,4,0,4
+2015,1,UNMISS,Serbia,Individual Police,5,8,13
+2015,1,UNMISS,Slovenia,Individual Police,11,12,23
+2015,1,UNMISS,Spain,Individual Police,21,3,24
+2015,1,UNMISS,Sweden,Individual Police,7,7,14
+2015,1,UNMISS,Sweden,Contingent Troops,2,0,2
+2015,1,UNMISS,Switzerland,Experts on Mission,2,0,2
+2015,1,UNMISS,Switzerland,Experts on Mission,4,0,4
+2015,1,UNMISS,Switzerland,Contingent Troops,3,1,4
+2015,1,UNMISS,Togo,Contingent Troops,1,0,1
+2015,1,UNMISS,Turkey,Individual Police,22,1,23
+2015,1,UNMISS,Uganda,Individual Police,15,3,18
+2015,1,UNMISS,Ukraine,Individual Police,33,4,37
+2015,1,UNMISS,Ukraine,Individual Police,2,2,4
+2015,1,UNMISS,Ukraine,Individual Police,10,0,10
+2015,1,UNMISS,Vietnam,Experts on Mission,2,0,2
+2015,1,UNMISS,Yemen,Experts on Mission,6,0,6
+2015,1,UNMISS,Zambia,Individual Police,20,6,26
+2015,1,UNMISS,Zimbabwe,Individual Police,18,18,36
+2015,1,UNMOGIP,Chile,Experts on Mission,2,0,2
+2015,1,UNMOGIP,Croatia,Experts on Mission,5,0,5
+2015,1,UNMOGIP,Finland,Experts on Mission,6,0,6
+2015,1,UNMOGIP,Ghana,Experts on Mission,2,0,2
+2015,1,UNMOGIP,Italy,Experts on Mission,4,0,4
+2015,1,UNMOGIP,Philippines,Experts on Mission,4,0,4
+2015,1,UNMOGIP,Qatar,Experts on Mission,5,2,7
+2015,1,UNMOGIP,Sweden,Experts on Mission,5,0,5
+2015,1,UNMOGIP,Switzerland,Experts on Mission,2,0,2
+2015,1,UNMOGIP,Thailand,Experts on Mission,1,2,3
+2015,1,UNMOGIP,Uruguay,Experts on Mission,2,0,2
+2015,1,UNOCI,Argentina,Individual Police,3,0,3
+2015,1,UNOCI,Bangladesh,Other,179,0,179
+2015,1,UNOCI,Benin,Individual Police,33,2,35
+2015,1,UNOCI,Bolivia,Experts on Mission,3,0,3
+2015,1,UNOCI,Brazil,Experts on Mission,2,0,2
+2015,1,UNOCI,Bulgaria,Individual Police,21,2,23
+2015,1,UNOCI,Burundi,Individual Police,37,1,38
+2015,1,UNOCI,Cameroon,Individual Police,2,1,3
+2015,1,UNOCI,Canada,Individual Police,6,0,6
+2015,1,UNOCI,Chad,Individual Police,7,3,10
+2015,1,UNOCI,China,Experts on Mission,6,0,6
+2015,1,UNOCI,Djibouti,Individual Police,14,2,16
+2015,1,UNOCI,Djibouti,Individual Police,8,0,8
+2015,1,UNOCI,Ecuador,Experts on Mission,2,0,2
+2015,1,UNOCI,Egypt,Individual Police,27,0,27
+2015,1,UNOCI,Egypt,Experts on Mission,3,0,3
+2015,1,UNOCI,Ethiopia,Experts on Mission,0,2,2
+2015,1,UNOCI,France,Individual Police,8,0,8
+2015,1,UNOCI,Gambia,Experts on Mission,1,2,3
+2015,1,UNOCI,Ghana,Individual Police,6,0,6
+2015,1,UNOCI,Guatemala,Experts on Mission,5,0,5
+2015,1,UNOCI,Guinea,Individual Police,6,3,9
+2015,1,UNOCI,India,Experts on Mission,8,0,8
+2015,1,UNOCI,Ireland,Experts on Mission,2,0,2
+2015,1,UNOCI,Jordan,Individual Police,7,0,7
+2015,1,UNOCI,Madagascar,Individual Police,3,0,3
+2015,1,UNOCI,Malawi,Experts on Mission,3,0,3
+2015,1,UNOCI,Mauritania,Other,139,0,139
+2015,1,UNOCI,Mauritania,Experts on Mission,3,1,4
+2015,1,UNOCI,Morocco,Contingent Troops,717,0,717
+2015,1,UNOCI,Namibia,Experts on Mission,1,1,2
+2015,1,UNOCI,Nepal,Experts on Mission,3,0,3
+2015,1,UNOCI,Niger,Individual Police,17,1,18
+2015,1,UNOCI,Nigeria,Individual Police,3,1,4
+2015,1,UNOCI,Pakistan,Other,189,0,189
+2015,1,UNOCI,Paraguay,Experts on Mission,7,0,7
+2015,1,UNOCI,Paraguay,Contingent Troops,2,0,2
+2015,1,UNOCI,Peru,Experts on Mission,2,0,2
+2015,1,UNOCI,Philippines,Experts on Mission,1,0,1
+2015,1,UNOCI,Poland,Experts on Mission,2,0,2
+2015,1,UNOCI,Qatar,Experts on Mission,2,0,2
+2015,1,UNOCI,Romania,Experts on Mission,5,1,6
+2015,1,UNOCI,Romania,Experts on Mission,7,0,7
+2015,1,UNOCI,Rwanda,Individual Police,39,2,41
+2015,1,UNOCI,Senegal,Individual Police,29,0,29
+2015,1,UNOCI,Serbia,Experts on Mission,3,0,3
+2015,1,UNOCI,Spain,Contingent Troops,1,0,1
+2015,1,UNOCI,Switzerland,Individual Police,1,0,1
+2015,1,UNOCI,Switzerland,Experts on Mission,0,2,2
+2015,1,UNOCI,Togo,Individual Police,22,1,23
+2015,1,UNOCI,Togo,Experts on Mission,7,0,7
+2015,1,UNOCI,Tunisia,Individual Police,15,0,15
+2015,1,UNOCI,Turkey,Individual Police,10,1,11
+2015,1,UNOCI,Uganda,Experts on Mission,4,1,5
+2015,1,UNOCI,Ukraine,Individual Police,12,1,13
+2015,1,UNOCI,Uruguay,Experts on Mission,2,0,2
+2015,1,UNOCI,Vanuatu,Individual Police,2,1,3
+2015,1,UNOCI,Yemen,Individual Police,13,0,13
+2015,1,UNOCI,Zambia,Experts on Mission,1,0,1
+2015,1,UNOCI,Zimbabwe,Experts on Mission,0,1,1
+2015,1,UNTSO,Argentina,Experts on Mission,3,0,3
+2015,1,UNTSO,Australia,Experts on Mission,9,2,11
+2015,1,UNTSO,Austria,Experts on Mission,5,0,5
+2015,1,UNTSO,Belgium,Experts on Mission,2,0,2
+2015,1,UNTSO,Bhutan,Experts on Mission,1,0,1
+2015,1,UNTSO,Canada,Experts on Mission,6,0,6
+2015,1,UNTSO,Chile,Experts on Mission,2,0,2
+2015,1,UNTSO,China,Experts on Mission,4,0,4
+2015,1,UNTSO,Denmark,Experts on Mission,11,0,11
+2015,1,UNTSO,Estonia,Experts on Mission,4,0,4
+2015,1,UNTSO,Fiji,Experts on Mission,1,0,1
+2015,1,UNTSO,Finland,Experts on Mission,17,1,18
+2015,1,UNTSO,France,Experts on Mission,1,0,1
+2015,1,UNTSO,Ireland,Experts on Mission,12,0,12
+2015,1,UNTSO,Italy,Experts on Mission,6,0,6
+2015,1,UNTSO,Nepal,Experts on Mission,4,0,4
+2015,1,UNTSO,Netherlands,Experts on Mission,12,0,12
+2015,1,UNTSO,Netherlands,Experts on Mission,6,1,7
+2015,1,UNTSO,Norway,Experts on Mission,11,0,11
+2015,1,UNTSO,Romania,Experts on Mission,4,0,4
+2015,1,UNTSO,Serbia,Experts on Mission,1,0,1
+2015,1,UNTSO,Slovakia,Experts on Mission,2,0,2
+2015,1,UNTSO,Slovenia,Experts on Mission,2,0,2
+2015,1,UNTSO,Sweden,Experts on Mission,7,0,7
+2015,1,UNTSO,Switzerland,Experts on Mission,11,1,12
+2015,1,UNTSO,Ukraine,Experts on Mission,2,0,2
