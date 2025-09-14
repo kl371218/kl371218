@@ -606,3 +606,508 @@ Year,Month,Mission,Country,Personnel_Type,Male,Female,Total
 2015,1,UNTSO,Sweden,Experts on Mission,7,0,7
 2015,1,UNTSO,Switzerland,Experts on Mission,11,1,12
 2015,1,UNTSO,Ukraine,Experts on Mission,2,0,2
+2019,1,Various,Algeria,Experts on Mission,3,0,3
+2019,1,Various,Argentina,Contingent Troops,221,18,239
+2019,1,Various,Argentina,Experts on Mission,16,0,16
+2019,1,Various,Argentina,Individual Police,20,0,20
+2019,1,Various,Armenia,Contingent Troops,32,0,32
+2019,1,Various,Australia,Experts on Mission,10,2,12
+2019,1,Various,Austria,Contingent Troops,172,7,179
+2019,1,Various,Austria,Experts on Mission,9,0,9
+2019,1,Various,Austria,Individual Police,0,1,1
+2019,1,Various,Azerbaijan,Experts on Mission,2,0,2
+2019,1,Various,Bangladesh,Experts on Mission,36,1,37
+2019,1,Various,Bangladesh,Individual Police,40,4,44
+2019,1,Various,Belarus,Contingent Troops,2,2,4
+2019,1,Various,Belgium,Contingent Troops,52,3,55
+2019,1,Various,Belgium,Experts on Mission,1,0,1
+2019,1,Various,Benin,Contingent Troops,248,2,250
+2019,1,Various,Benin,Experts on Mission,9,3,12
+2019,1,Various,Benin,Individual Police,89,5,94
+2019,1,Various,Bhutan,Experts on Mission,7,4,11
+2019,1,Various,Bhutan,Individual Police,13,2,15
+2019,1,Various,Bolivia,Experts on Mission,19,0,19
+2019,1,Various,Bosnia and Herzegovina,Experts on Mission,3,0,3
+2019,1,Various,Bosnia and Herzegovina,Individual Police,26,6,32
+2019,1,Various,Brazil,Contingent Troops,220,1,221
+2019,1,Various,Brazil,Experts on Mission,15,3,18
+2019,1,Various,Brazil,Individual Police,9,1,10
+2019,1,Various,Brunei Darussalam,Contingent Troops,29,0,29
+2019,1,Various,Bulgaria,Individual Police,2,1,3
+2019,1,Various,Burkina Faso,Experts on Mission,6,0,6
+2019,1,Various,Burkina Faso,Individual Police,54,30,84
+2019,1,Various,Burundi,Contingent Troops,715,27,742
+2019,1,Various,Burundi,Experts on Mission,10,1,11
+2019,1,Various,Cambodia,Contingent Troops,693,62,755
+2019,1,Various,Cambodia,Experts on Mission,8,3,11
+2019,1,Various,Cameroon,Contingent Troops,703,47,750
+2019,1,Various,Cameroon,Experts on Mission,5,2,7
+2019,1,Various,Cameroon,Individual Police,47,27,74
+2019,1,Various,Canada,Contingent Troops,126,12,138
+2019,1,Various,Canada,Experts on Mission,9,0,9
+2019,1,Various,Canada,Individual Police,14,6,20
+2019,1,Various,Cape Verde,Individual Police,1,0,1
+2019,1,Various,Chad,Experts on Mission,3,0,3
+2019,1,Various,Chad,Individual Police,36,5,41
+2019,1,Various,Chile,Contingent Troops,12,0,12
+2019,1,Various,Chile,Experts on Mission,13,1,14
+2019,1,Various,Chile,Individual Police,5,4,9
+2019,1,Various,China,Experts on Mission,29,4,33
+2019,1,Various,China,Individual Police,17,1,18
+2019,1,Various,Colombia,Experts on Mission,2,0,2
+2019,1,Various,Colombia,Individual Police,1,1,2
+2019,1,Various,Congo,Experts on Mission,5,0,5
+2019,1,Various,Congo,Individual Police,1,2,3
+2019,1,Various,Costa Rica,Individual Police,0,3,3
+2019,1,Various,Côte d'Ivoire,Contingent Troops,147,3,150
+2019,1,Various,Côte d'Ivoire,Experts on Mission,2,2,4
+2019,1,Various,Côte d'Ivoire,Individual Police,116,20,136
+2019,1,Various,Croatia,Contingent Troops,51,1,52
+2019,1,Various,Croatia,Experts on Mission,14,1,15
+2019,1,Various,Cuba,Experts on Mission,5,1,6
+2019,1,Various,Czech Republic,Contingent Troops,2,0,2
+2019,1,Various,Czech Republic,Experts on Mission,8,2,10
+2019,1,Various,Democratic Republic of the Congo (DRC),Individual Police,1,0,1
+2019,1,Various,Denmark,Experts on Mission,8,3,11
+2019,1,Various,Djibouti,Experts on Mission,1,0,1
+2019,1,Various,Djibouti,Individual Police,33,1,34
+2019,1,Various,Dominican Republic,Experts on Mission,1,1,2
+2019,1,Various,Dominican Republic,Individual Police,2,0,2
+2019,1,Various,Ecuador,Experts on Mission,4,3,7
+2019,1,Various,Egypt,Experts on Mission,63,0,63
+2019,1,Various,Egypt,Individual Police,58,0,58
+2019,1,Various,El Salvador,Contingent Troops,240,16,256
+2019,1,Various,El Salvador,Experts on Mission,7,0,7
+2019,1,Various,El Salvador,Individual Police,10,7,17
+2019,1,Various,Estonia,Contingent Troops,2,0,2
+2019,1,Various,Estonia,Experts on Mission,2,1,3
+2019,1,Various,Ethiopia,Experts on Mission,73,26,99
+2019,1,Various,Ethiopia,Individual Police,61,5,66
+2019,1,Various,Fiji,Contingent Troops,360,39,399
+2019,1,Various,Fiji,Experts on Mission,2,0,2
+2019,1,Various,Fiji,Individual Police,18,9,27
+2019,1,Various,Finland,Contingent Troops,179,9,188
+2019,1,Various,Finland,Experts on Mission,11,4,15
+2019,1,Various,Finland,Individual Police,12,3,15
+2019,1,Various,France,Contingent Troops,602,55,657
+2019,1,Various,France,Experts on Mission,2,0,2
+2019,1,Various,France,Individual Police,31,0,31
+2019,1,Various,Gabon,Contingent Troops,406,44,450
+2019,1,Various,Gambia,Contingent Troops,117,15,132
+2019,1,Various,Gambia,Experts on Mission,4,3,7
+2019,1,Various,Gambia,Individual Police,50,19,69
+2019,1,Various,Germany,Contingent Troops,479,28,507
+2019,1,Various,Germany,Experts on Mission,15,0,15
+2019,1,Various,Germany,Individual Police,17,4,21
+2019,1,Various,Ghana,Experts on Mission,34,10,44
+2019,1,Various,Ghana,Individual Police,31,51,82
+2019,1,Various,Greece,Contingent Troops,134,18,152
+2019,1,Various,Guatemala,Contingent Troops,141,9,150
+2019,1,Various,Guatemala,Experts on Mission,9,3,12
+2019,1,Various,Guinea,Contingent Troops,840,10,850
+2019,1,Various,Guinea,Experts on Mission,10,0,10
+2019,1,Various,Guinea,Individual Police,35,25,60
+2019,1,Various,Honduras,Experts on Mission,13,4,17
+2019,1,Various,Hungary,Contingent Troops,4,1,5
+2019,1,Various,Hungary,Experts on Mission,7,2,9
+2019,1,Various,Hungary,Individual Police,2,0,2
+2019,1,Various,India,Experts on Mission,37,2,39
+2019,1,Various,India,Individual Police,10,3,13
+2019,1,Various,Indonesia,Experts on Mission,23,0,23
+2019,1,Various,Indonesia,Individual Police,13,3,16
+2019,1,Various,Iran (Islamic Republic of),Experts on Mission,1,0,1
+2019,1,Various,Ireland,Contingent Troops,557,23,580
+2019,1,Various,Ireland,Experts on Mission,14,2,16
+2019,1,Various,Ireland,Individual Police,7,6,13
+2019,1,Various,Italy,Experts on Mission,4,0,4
+2019,1,Various,Italy,Individual Police,5,1,6
+2019,1,Various,Jordan,Contingent Troops,52,0,52
+2019,1,Various,Jordan,Experts on Mission,13,4,17
+2019,1,Various,Jordan,Individual Police,194,28,222
+2019,1,Various,Kazakhstan,Contingent Troops,120,0,120
+2019,1,Various,Kazakhstan,Experts on Mission,3,1,4
+2019,1,Various,Kenya,Contingent Troops,59,16,75
+2019,1,Various,Kenya,Experts on Mission,19,0,19
+2019,1,Various,Kenya,Individual Police,8,10,18
+2019,1,Various,Kyrgyzstan,Experts on Mission,1,0,1
+2019,1,Various,Kyrgyzstan,Individual Police,11,2,13
+2019,1,Various,Latvia,Contingent Troops,9,0,9
+2019,1,Various,Liberia,Contingent Troops,98,7,105
+2019,1,Various,Liberia,Experts on Mission,1,0,1
+2019,1,Various,Lithuania,Contingent Troops,34,0,34
+2019,1,Various,Lithuania,Experts on Mission,1,0,1
+2019,1,Various,Lithuania,Individual Police,0,1,1
+2019,1,Various,Madagascar,Individual Police,19,3,22
+2019,1,Various,Malawi,Contingent Troops,801,49,850
+2019,1,Various,Malawi,Experts on Mission,7,1,8
+2019,1,Various,Malawi,Individual Police,33,15,48
+2019,1,Various,Malaysia,Contingent Troops,779,37,816
+2019,1,Various,Malaysia,Experts on Mission,15,1,16
+2019,1,Various,Malaysia,Individual Police,2,0,2
+2019,1,Various,Mali,Experts on Mission,2,1,3
+2019,1,Various,Mali,Individual Police,46,3,49
+2019,1,Various,Malta,Contingent Troops,2,0,2
+2019,1,Various,Mauritania,Contingent Troops,742,3,745
+2019,1,Various,Mauritania,Experts on Mission,9,0,9
+2019,1,Various,Mexico,Experts on Mission,12,4,16
+2019,1,Various,Mexico,Individual Police,2,0,2
+2019,1,Various,"Moldova, Republic of",Experts on Mission,6,3,9
+2019,1,Various,Mongolia,Contingent Troops,782,67,849
+2019,1,Various,Mongolia,Experts on Mission,9,6,15
+2019,1,Various,Mongolia,Individual Police,5,1,6
+2019,1,Various,Montenegro,Experts on Mission,1,0,1
+2019,1,Various,Montenegro,Individual Police,4,1,5
+2019,1,Various,Morocco,Experts on Mission,4,0,4
+2019,1,Various,Myanmar,Experts on Mission,1,0,1
+2019,1,Various,Namibia,Experts on Mission,9,0,9
+2019,1,Various,Namibia,Individual Police,28,16,44
+2019,1,Various,Nepal,Experts on Mission,36,7,43
+2019,1,Various,Nepal,Individual Police,48,10,58
+2019,1,Various,Netherlands,Contingent Troops,211,10,221
+2019,1,Various,Netherlands,Experts on Mission,10,1,11
+2019,1,Various,Netherlands,Individual Police,7,3,10
+2019,1,Various,New Zealand,Experts on Mission,10,0,10
+2019,1,Various,Niger,Contingent Troops,850,12,862
+2019,1,Various,Niger,Experts on Mission,9,0,9
+2019,1,Various,Niger,Individual Police,65,18,83
+2019,1,Various,Nigeria,Contingent Troops,134,32,166
+2019,1,Various,Nigeria,Experts on Mission,23,7,30
+2019,1,Various,Nigeria,Individual Police,38,18,56
+2019,1,Various,Norway,Contingent Troops,9,0,9
+2019,1,Various,Norway,Experts on Mission,11,1,12
+2019,1,Various,Norway,Individual Police,15,8,23
+2019,1,Various,Pakistan,Experts on Mission,46,0,46
+2019,1,Various,Pakistan,Individual Police,1,0,1
+2019,1,Various,Paraguay,Contingent Troops,12,0,12
+2019,1,Various,Paraguay,Experts on Mission,15,0,15
+2019,1,Various,Peru,Contingent Troops,205,0,205
+2019,1,Various,Peru,Experts on Mission,15,5,20
+2019,1,Various,Philippines,Experts on Mission,6,1,7
+2019,1,Various,Philippines,Individual Police,9,12,21
+2019,1,Various,Poland,Experts on Mission,6,2,8
+2019,1,Various,Portugal,Contingent Troops,179,1,180
+2019,1,Various,Portugal,Experts on Mission,2,1,3
+2019,1,Various,Portugal,Individual Police,23,8,31
+2019,1,Various,Republic of Korea,Contingent Troops,570,25,595
+2019,1,Various,Republic of Korea,Experts on Mission,10,3,13
+2019,1,Various,Republic of Korea,Individual Police,1,3,4
+2019,1,Various,Romania,Experts on Mission,12,1,13
+2019,1,Various,Romania,Individual Police,27,5,32
+2019,1,Various,Russian Federation,Experts on Mission,34,4,38
+2019,1,Various,Russian Federation,Individual Police,29,10,39
+2019,1,Various,Rwanda,Experts on Mission,39,4,43
+2019,1,Various,Rwanda,Individual Police,70,12,82
+2019,1,Various,Samoa,Individual Police,16,3,19
+2019,1,Various,Senegal,Experts on Mission,3,0,3
+2019,1,Various,Senegal,Individual Police,95,14,109
+2019,1,Various,Serbia,Contingent Troops,207,37,244
+2019,1,Various,Serbia,Experts on Mission,4,0,4
+2019,1,Various,Serbia,Individual Police,2,0,2
+2019,1,Various,Sierra Leone,Experts on Mission,7,5,12
+2019,1,Various,Sierra Leone,Individual Police,20,17,37
+2019,1,Various,Slovakia,Contingent Troops,215,18,233
+2019,1,Various,Slovakia,Experts on Mission,2,0,2
+2019,1,Various,Slovakia,Individual Police,4,3,7
+2019,1,Various,Slovenia,Contingent Troops,13,2,15
+2019,1,Various,Slovenia,Experts on Mission,3,0,3
+2019,1,Various,Solomon Islands,Individual Police,1,2,3
+2019,1,Various,South Africa,Experts on Mission,5,1,6
+2019,1,Various,South Africa,Individual Police,31,21,52
+2019,1,Various,Spain,Contingent Troops,576,41,617
+2019,1,Various,Spain,Experts on Mission,4,0,4
+2019,1,Various,Spain,Individual Police,8,1,9
+2019,1,Various,Sri Lanka,Contingent Troops,617,6,623
+2019,1,Various,Sri Lanka,Experts on Mission,13,4,17
+2019,1,Various,Sri Lanka,Individual Police,19,0,19
+2019,1,Various,Sweden,Contingent Troops,207,22,229
+2019,1,Various,Sweden,Experts on Mission,15,1,16
+2019,1,Various,Sweden,Individual Police,27,18,45
+2019,1,Various,Switzerland,Contingent Troops,2,0,2
+2019,1,Various,Switzerland,Experts on Mission,16,1,17
+2019,1,Various,Switzerland,Individual Police,6,0,6
+2019,1,Various,Tajikistan,Individual Police,4,1,5
+2019,1,Various,Thailand,Contingent Troops,273,0,273
+2019,1,Various,Thailand,Experts on Mission,5,2,7
+2019,1,Various,Thailand,Individual Police,3,7,10
+2019,1,Various,The former Yugoslav Republic of Macedoni,Contingent Troops,2,0,2
+2019,1,Various,Togo,Contingent Troops,890,30,920
+2019,1,Various,Togo,Experts on Mission,10,1,11
+2019,1,Various,Togo,Individual Police,52,9,61
+2019,1,Various,Tunisia,Contingent Troops,8,0,8
+2019,1,Various,Tunisia,Experts on Mission,8,0,8
+2019,1,Various,Tunisia,Individual Police,150,16,166
+2019,1,Various,Turkey,Contingent Troops,91,0,91
+2019,1,Various,Turkey,Experts on Mission,2,0,2
+2019,1,Various,Turkey,Individual Police,70,5,75
+2019,1,Various,Uganda,Contingent Troops,467,63,530
+2019,1,Various,Uganda,Experts on Mission,2,1,3
+2019,1,Various,Uganda,Individual Police,15,8,23
+2019,1,Various,Ukraine,Contingent Troops,250,0,250
+2019,1,Various,Ukraine,Experts on Mission,15,0,15
+2019,1,Various,Ukraine,Individual Police,33,5,38
+2019,1,Various,United Kingdom,Contingent Troops,559,22,581
+2019,1,Various,United Kingdom,Experts on Mission,4,0,4
+2019,1,Various,United Republic of Tanzania,Experts on Mission,13,1,14
+2019,1,Various,United Republic of Tanzania,Individual Police,30,22,52
+2019,1,Various,United States of America,Experts on Mission,4,0,4
+2019,1,Various,United States of America,Individual Police,4,0,4
+2019,1,Various,Uruguay,Contingent Troops,863,60,923
+2019,1,Various,Uruguay,Experts on Mission,17,0,17
+2019,1,Various,Uruguay,Individual Police,3,0,3
+2019,1,Various,Viet Nam,Contingent Troops,53,10,63
+2019,1,Various,Viet Nam,Experts on Mission,5,0,5
+2019,1,Various,Zambia,Contingent Troops,832,78,910
+2019,1,Various,Zambia,Experts on Mission,26,1,27
+2019,1,Various,Zambia,Individual Police,22,17,39
+2019,1,Various,Zimbabwe,Experts on Mission,3,3,6
+2019,1,Various,Zimbabwe,Individual Police,39,34,73
+2023,1,BINUH,Benin,Individual Police,1,0,1
+2023,1,BINUH,Mali,Individual Police,0,0,0
+2023,1,BINUH,Niger,Individual Police,1,0,1
+2023,1,BINUH,Rwanda,Individual Police,1,0,1
+2023,1,BINUH,United States of America,Individual Police,1,0,1
+2023,1,MINURSO,Kenya,Individual Police,1,0,1
+2023,1,MINUSCA,Argentina,Staff Officer,0,2,2
+2023,1,MINUSCA,Benin,Individual Police,37,3,40
+2023,1,MINUSCA,Bhutan,Staff Officer,5,0,5
+2023,1,MINUSCA,Brazil,Individual Police,2,0,2
+2023,1,MINUSCA,Burundi,Staff Officer,10,2,12
+2023,1,MINUSCA,Cambodia,Staff Officer,6,0,6
+2023,1,MINUSCA,Cameroon,Individual Police,4,9,13
+2023,1,MINUSCA,Ecuador,Staff Officer,0,2,2
+2023,1,MINUSCA,Egypt,Individual Police,20,0,20
+2023,1,MINUSCA,Gabon,Staff Officer,1,0,1
+2023,1,MINUSCA,Gambia,Individual Police,12,1,13
+2023,1,MINUSCA,Ghana,Individual Police,1,0,1
+2023,1,MINUSCA,Guinea,Individual Police,11,7,18
+2023,1,MINUSCA,Indonesia,Individual Police,11,8,19
+2023,1,MINUSCA,Jordan,Individual Police,65,3,68
+2023,1,MINUSCA,Kazakhstan,Staff Officer,2,0,2
+2023,1,MINUSCA,Mali,Individual Police,28,0,28
+2023,1,MINUSCA,Mauritania,Staff Officer,9,1,10
+2023,1,MINUSCA,Morocco,Staff Officer,20,6,26
+2023,1,MINUSCA,Nepal,Staff Officer,14,3,17
+2023,1,MINUSCA,Pakistan,Staff Officer,22,7,29
+2023,1,MINUSCA,Peru,Staff Officer,4,5,9
+2023,1,MINUSCA,Portugal,Staff Officer,7,4,11
+2023,1,MINUSCA,Romania,Individual Police,8,0,8
+2023,1,MINUSCA,Rwanda,Individual Police,34,18,52
+2023,1,MINUSCA,Serbia,Staff Officer,4,0,4
+2023,1,MINUSCA,Spain,Individual Police,3,0,3
+2023,1,MINUSCA,Sweden,Individual Police,3,2,5
+2023,1,MINUSCA,Togo,Individual Police,18,12,30
+2023,1,MINUSCA,Turkey,Individual Police,9,2,11
+2023,1,MINUSCA,United States of America,Staff Officer,10,0,10
+2023,1,MINUSCA,Uruguay,Staff Officer,3,0,3
+2023,1,MINUSCA,Zambia,Staff Officer,7,3,10
+2023,1,MINUSMA,Austria,Staff Officer,2,0,2
+2023,1,MINUSMA,Belgium,Staff Officer,3,0,3
+2023,1,MINUSMA,Bhutan,Staff Officer,5,0,5
+2023,1,MINUSMA,Burundi,Staff Officer,1,0,1
+2023,1,MINUSMA,Chad,Staff Officer,25,2,27
+2023,1,MINUSMA,Czech Republic,Staff Officer,4,0,4
+2023,1,MINUSMA,Denmark,Staff Officer,2,0,2
+2023,1,MINUSMA,Ghana,Staff Officer,12,4,16
+2023,1,MINUSMA,Guatemala,Staff Officer,2,0,2
+2023,1,MINUSMA,Guinea,Staff Officer,18,0,18
+2023,1,MINUSMA,Iran,Staff Officer,2,0,2
+2023,1,MINUSMA,Jordan,Staff Officer,13,0,13
+2023,1,MINUSMA,Kazakhstan,Staff Officer,2,0,2
+2023,1,MINUSMA,Kenya,Staff Officer,8,1,9
+2023,1,MINUSMA,Luxembourg,Troops,2,0,2
+2023,1,MINUSMA,Mauritania,Staff Officer,7,0,7
+2023,1,MINUSMA,Mongolia,Staff Officer,2,0,2
+2023,1,MINUSMA,Netherlands,Staff Officer,2,1,3
+2023,1,MINUSMA,Niger,Staff Officer,12,0,12
+2023,1,MINUSMA,Romania,Staff Officer,4,0,4
+2023,1,MINUSMA,Sierra Leone,Staff Officer,13,4,17
+2023,1,MINUSMA,Switzerland,Staff Officer,4,0,4
+2023,1,MINUSMA,Tunisia,Staff Officer,10,2,12
+2023,1,MINUSMA,Turkey,Individual Police,10,2,12
+2023,1,MINUSMA,United States of America,Staff Officer,8,2,10
+2023,1,MONUSCO,Bangladesh,Individual Police,9,4,13
+2023,1,MONUSCO,Benin,Individual Police,18,0,18
+2023,1,MONUSCO,Burkina Faso,Individual Police,20,11,31
+2023,1,MONUSCO,Cameroon,Individual Police,1,1,2
+2023,1,MONUSCO,Canada,Individual Police,11,10,21
+2023,1,MONUSCO,Chad,Individual Police,3,0,3
+2023,1,MONUSCO,China,Staff Officer,7,0,7
+2023,1,MONUSCO,Djibouti,Individual Police,10,5,15
+2023,1,MONUSCO,France,Individual Police,0,0,0
+2023,1,MONUSCO,Gambia,Individual Police,6,0,6
+2023,1,MONUSCO,Ghana,Individual Police,2,1,3
+2023,1,MONUSCO,Guatemala,Staff Officer,4,1,5
+2023,1,MONUSCO,Guinea,Individual Police,21,3,24
+2023,1,MONUSCO,Haiti,Individual Police,0,0,0
+2023,1,MONUSCO,India,Individual Police,0,0,0
+2023,1,MONUSCO,Madagascar,Individual Police,4,1,5
+2023,1,MONUSCO,Malawi,Staff Officer,12,3,15
+2023,1,MONUSCO,Mali,Individual Police,16,6,22
+2023,1,MONUSCO,Mongolia,Staff Officer,0,0,0
+2023,1,MONUSCO,Niger,Individual Police,9,6,15
+2023,1,MONUSCO,Nigeria,Individual Police,4,0,4
+2023,1,MONUSCO,Pakistan,Staff Officer,24,9,33
+2023,1,MONUSCO,Romania,Individual Police,8,7,15
+2023,1,MONUSCO,Russian Federation,Individual Police,12,1,13
+2023,1,MONUSCO,Senegal,Individual Police,8,10,18
+2023,1,MONUSCO,South Africa,Staff Officer,20,5,25
+2023,1,MONUSCO,Sweden,Individual Police,5,0,5
+2023,1,MONUSCO,Switzerland,Individual Police,2,0,2
+2023,1,MONUSCO,Togo,Individual Police,15,9,24
+2023,1,MONUSCO,Tunisia,Individual Police,13,9,22
+2023,1,MONUSCO,Turkey,Individual Police,7,5,12
+2023,1,MONUSCO,Ukraine,Individual Police,0,0,0
+2023,1,UNAMI,Fiji,Troops,136,22,158
+2023,1,UNAMI,Nepal,Troops,73,4,77
+2023,1,UNDOF,Argentina,Staff Officer,1,0,1
+2023,1,UNDOF,Australia,Staff Officer,1,0,1
+2023,1,UNDOF,Bhutan,Staff Officer,3,0,3
+2023,1,UNDOF,Czech Republic,Staff Officer,3,1,4
+2023,1,UNDOF,Ghana,Staff Officer,4,2,6
+2023,1,UNDOF,Netherlands,Staff Officer,1,0,1
+2023,1,UNDOF,Zambia,Staff Officer,1,1,2
+2023,1,UNFICYP,Austria,Staff Officer,3,0,3
+2023,1,UNFICYP,Bangladesh,Individual Police,1,0,1
+2023,1,UNFICYP,Bosnia and Herzegovina,Individual Police,4,2,6
+2023,1,UNFICYP,Canada,Staff Officer,0,1,1
+2023,1,UNFICYP,China,Individual Police,2,1,3
+2023,1,UNFICYP,Czech Republic,Individual Police,0,1,1
+2023,1,UNFICYP,Finland,Individual Police,3,2,5
+2023,1,UNFICYP,Ghana,Staff Officer,0,1,1
+2023,1,UNFICYP,India,Staff Officer,1,0,1
+2023,1,UNFICYP,Indonesia,Individual Police,0,2,2
+2023,1,UNFICYP,Ireland,Individual Police,6,5,11
+2023,1,UNFICYP,Italy,Individual Police,1,2,3
+2023,1,UNFICYP,Jordan,Individual Police,4,1,5
+2023,1,UNFICYP,Lithuania,Individual Police,1,0,1
+2023,1,UNFICYP,Montenegro,Individual Police,1,3,4
+2023,1,UNFICYP,Nepal,Individual Police,2,0,2
+2023,1,UNFICYP,Norway,Staff Officer,0,1,1
+2023,1,UNFICYP,Pakistan,Staff Officer,1,2,3
+2023,1,UNFICYP,Romania,Individual Police,2,5,7
+2023,1,UNFICYP,Russian Federation,Individual Police,1,3,4
+2023,1,UNFICYP,Russian Federation,Staff Officer,3,1,4
+2023,1,UNFICYP,Serbia,Staff Officer,3,0,3
+2023,1,UNFICYP,Slovakia,Staff Officer,4,2,6
+2023,1,UNFICYP,Sweden,Individual Police,2,1,3
+2023,1,UNFICYP,Ukraine,Staff Officer,0,0,0
+2023,1,UNIFIL,Argentina,Troops,2,0,2
+2023,1,UNIFIL,Brunei Darussalam,Troops,28,2,30
+2023,1,UNIFIL,Cambodia,Troops,151,29,180
+2023,1,UNIFIL,Colombia,Staff Officer,1,0,1
+2023,1,UNIFIL,Croatia,Staff Officer,1,0,1
+2023,1,UNIFIL,Cyprus,Staff Officer,2,0,2
+2023,1,UNIFIL,El Salvador,Troops,45,7,52
+2023,1,UNIFIL,Estonia,Staff Officer,1,0,1
+2023,1,UNIFIL,Fiji,Staff Officer,1,0,1
+2023,1,UNIFIL,Guatemala,Staff Officer,2,0,2
+2023,1,UNIFIL,Hungary,Troops,16,0,16
+2023,1,UNIFIL,Kenya,Staff Officer,2,1,3
+2023,1,UNIFIL,Malta,Troops,9,0,9
+2023,1,UNIFIL,Netherlands,Staff Officer,0,1,1
+2023,1,UNIFIL,Nigeria,Staff Officer,2,0,2
+2023,1,UNIFIL,Peru,Staff Officer,0,1,1
+2023,1,UNIFIL,Qatar,Staff Officer,1,0,1
+2023,1,UNIFIL,Republic of Moldova,Troops,4,0,4
+2023,1,UNIFIL,Sierra Leone,Staff Officer,3,0,3
+2023,1,UNIFIL,Slovenia,Troops,1,0,1
+2023,1,UNIFIL,Uruguay,Staff Officer,1,0,1
+2023,1,UNIFIL,Zambia,Staff Officer,1,1,2
+2023,1,UNISFA,Bangladesh,Staff Officer,9,1,10
+2023,1,UNISFA,Cambodia,Staff Officer,1,0,1
+2023,1,UNISFA,China,Staff Officer,7,1,8
+2023,1,UNISFA,Egypt,Individual Police,2,0,2
+2023,1,UNISFA,Ethiopia,Individual Police,0,0,0
+2023,1,UNISFA,Fiji,Individual Police,1,0,1
+2023,1,UNISFA,Gambia,Individual Police,3,0,3
+2023,1,UNISFA,Indonesia,Staff Officer,2,0,2
+2023,1,UNISFA,Jordan,Individual Police,1,2,3
+2023,1,UNISFA,Mongolia,Individual Police,0,0,0
+2023,1,UNISFA,Namibia,Individual Police,0,1,1
+2023,1,UNISFA,Nigeria,Individual Police,3,1,4
+2023,1,UNISFA,Pakistan,Staff Officer,7,1,8
+2023,1,UNISFA,Republic of Korea,Individual Police,0,0,0
+2023,1,UNISFA,Russian Federation,Individual Police,2,0,2
+2023,1,UNISFA,Rwanda,Individual Police,2,2,4
+2023,1,UNISFA,Sierra Leone,Individual Police,2,0,2
+2023,1,UNISFA,South Africa,Individual Police,1,2,3
+2023,1,UNISFA,Tajikistan,Individual Police,2,0,2
+2023,1,UNISFA,Ukraine,Individual Police,0,0,0
+2023,1,UNISFA,United Republic of Tanzania,Individual Police,1,1,2
+2023,1,UNISFA,Viet Nam,Staff Officer,5,1,6
+2023,1,UNISFA,Zambia,Individual Police,2,1,3
+2023,1,UNITAMS,Bangladesh,Individual Police,1,0,1
+2023,1,UNITAMS,China,Individual Police,2,0,2
+2023,1,UNITAMS,Fiji,Individual Police,1,0,1
+2023,1,UNITAMS,Gambia,Individual Police,0,4,4
+2023,1,UNITAMS,Germany,Individual Police,1,3,4
+2023,1,UNITAMS,Jordan,Individual Police,2,1,3
+2023,1,UNITAMS,Malawi,Individual Police,2,1,3
+2023,1,UNITAMS,Morocco,Individual Police,0,1,1
+2023,1,UNITAMS,Nepal,Individual Police,2,1,3
+2023,1,UNITAMS,Norway,Individual Police,1,1,2
+2023,1,UNITAMS,Russian Federation,Individual Police,1,0,1
+2023,1,UNITAMS,Sierra Leone,Individual Police,0,0,0
+2023,1,UNITAMS,South Africa,Individual Police,0,1,1
+2023,1,UNITAMS,Tunisia,Individual Police,1,1,2
+2023,1,UNITAMS,Turkey,Individual Police,1,0,1
+2023,1,UNITAMS,United Republic of Tanzania,Individual Police,1,0,1
+2023,1,UNITAMS,Zimbabwe,Individual Police,1,0,1
+2023,1,UNMIK,Canada,Individual Police,1,0,1
+2023,1,UNMIK,Finland,Individual Police,2,0,2
+2023,1,UNMIK,Germany,Individual Police,1,0,1
+2023,1,UNMIK,Hungary,Individual Police,1,0,1
+2023,1,UNMIK,Jordan,Individual Police,1,0,1
+2023,1,UNMIK,Nepal,Individual Police,1,0,1
+2023,1,UNMIK,Slovenia,Individual Police,2,0,2
+2023,1,UNMISS,Albania,Staff Officer,2,0,2
+2023,1,UNMISS,Angola,Individual Police,1,1,2
+2023,1,UNMISS,Argentina,Individual Police,6,4,10
+2023,1,UNMISS,Bosnia and Herzegovina,Individual Police,13,0,13
+2023,1,UNMISS,Burkina Faso,Individual Police,7,2,9
+2023,1,UNMISS,Cambodia,Staff Officer,8,3,11
+2023,1,UNMISS,China,Staff Officer,18,1,19
+2023,1,UNMISS,Czech Republic,Individual Police,1,0,1
+2023,1,UNMISS,Egypt,Individual Police,6,3,9
+2023,1,UNMISS,El Salvador,Individual Police,0,1,1
+2023,1,UNMISS,Fiji,Individual Police,9,2,11
+2023,1,UNMISS,Finland,Individual Police,4,2,6
+2023,1,UNMISS,Gambia,Individual Police,16,13,29
+2023,1,UNMISS,Ghana,Individual Police,8,14,22
+2023,1,UNMISS,Indonesia,Individual Police,10,7,17
+2023,1,UNMISS,Japan,Staff Officer,3,1,4
+2023,1,UNMISS,Kenya,Individual Police,14,5,19
+2023,1,UNMISS,Kiribati,Individual Police,3,2,5
+2023,1,UNMISS,Malawi,Individual Police,13,8,21
+2023,1,UNMISS,Malaysia,Individual Police,7,3,10
+2023,1,UNMISS,Nauru,Individual Police,2,1,3
+2023,1,UNMISS,Nepal,Individual Police,24,20,44
+2023,1,UNMISS,Nigeria,Individual Police,20,25,45
+2023,1,UNMISS,Pakistan,Staff Officer,10,4,14
+2023,1,UNMISS,Poland,Individual Police,2,1,3
+2023,1,UNMISS,Portugal,Individual Police,6,2,8
+2023,1,UNMISS,Romania,Individual Police,8,2,10
+2023,1,UNMISS,Rwanda,Individual Police,18,17,35
+2023,1,UNMISS,Sao Tome and Principe,Individual Police,1,0,1
+2023,1,UNMISS,South Africa,Individual Police,9,15,24
+2023,1,UNMISS,Sweden,Individual Police,15,6,21
+2023,1,UNMISS,Switzerland,Staff Officer,1,0,1
+2023,1,UNMISS,Tajikistan,Individual Police,2,1,3
+2023,1,UNMISS,Tunisia,Individual Police,1,0,1
+2023,1,UNMISS,Turkey,Individual Police,22,12,34
+2023,1,UNMISS,United Kingdom,Staff Officer,3,1,4
+2023,1,UNMISS,United Republic of Tanzania,Individual Police,9,14,23
+2023,1,UNMISS,United States of America,Staff Officer,7,0,7
+2023,1,UNMISS,Zambia,Individual Police,2,0,2
+2023,1,UNMISS,Zimbabwe,Individual Police,18,9,27
+2023,1,UNSOM,Brazil,Individual Police,2,0,2
+2023,1,UNSOM,Finland,Individual Police,1,0,1
+2023,1,UNSOM,Germany,Individual Police,0,1,1
+2023,1,UNSOM,Indonesia,Individual Police,0,1,1
+2023,1,UNSOM,Kenya,Individual Police,0,2,2
+2023,1,UNSOM,Sweden,Individual Police,2,1,3
+2023,1,UNSOM,Thailand,Individual Police,1,1,2
+2023,1,UNSOM,Zimbabwe,Individual Police,2,1,3
+2023,1,UNSOS,United Kingdom,Troops,10,0,10
+2023,1,UNVMC,Norway,Individual Police,1,1,2
+2023,1,UNVMC,Sweden,Individual Police,1,1,2

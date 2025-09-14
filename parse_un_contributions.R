@@ -487,7 +487,7 @@ parse_all_pdfs <- function(pdf_dir = ".", pattern = "UN_country_contributions_\\
         cat(paste("Progress:", processed_count, "/", length(pdf_files), "files processed\n"))
       }
       
-      return(file_result)
+      file_result  # Return the result without explicit return()
     }, silent = TRUE)
     
     if (inherits(result, "try-error")) {
@@ -624,18 +624,14 @@ main <- function() {
   }
 }
 
-# Execute main function if script is run directly
-if (!interactive()) {
-  main()
-} else {
-  cat("Script loaded. Available functions:\n")
-  cat("- setup_packages(): Install required packages\n")
-  cat("- inspect_pdf_raw(): Examine PDF content\n")
-  cat("- analyze_table_structure(): Analyze PDF structure\n")
-  cat("- parse_all_pdfs(): Process all PDF files\n")
-  cat("- export_to_csv(): Export data to CSV\n")
-  cat("- generate_sample_output(): Show sample results\n")
-  cat("- main(): Run complete workflow\n")
-  cat("- show_usage(): Show detailed usage examples\n\n")
-  cat("Run main() to execute the complete workflow.\n")
-}
+# Script is loaded and ready for use
+cat("Script loaded. Available functions:\n")
+cat("- setup_packages(): Install required packages\n")
+cat("- inspect_pdf_raw(): Examine PDF content\n")
+cat("- analyze_table_structure(): Analyze PDF structure\n")
+cat("- parse_all_pdfs(): Process all PDF files\n")
+cat("- export_to_csv(): Export data to CSV\n")
+cat("- generate_sample_output(): Show sample results\n")
+cat("- main(): Run complete workflow\n")
+cat("- show_usage(): Show detailed usage examples\n\n")
+cat("Run main() to execute the complete workflow, or call individual functions as needed.\n")
